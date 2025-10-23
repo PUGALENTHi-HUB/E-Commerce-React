@@ -25,10 +25,10 @@ export default function Hero() {
             </div>
         </div>
 
-        <div className="hero-right">
+        {/* <div className="hero-right">
             <img src={hero_img} alt="" />
 
-        </div>
+        </div> */}
     </div>
   )
 }
